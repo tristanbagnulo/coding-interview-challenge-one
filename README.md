@@ -11,4 +11,4 @@ For example, 6 of the integers you receive may be [4, 2, 2, 3, 4, 4].
 * Note: [4,3] appears first because the frequency of the occurrence of the number 4 is the highest out of all of the integers recieved. It is then followed by 2 which occurs twice and then 3 which occurs once.
 
 ## Time taken to do challenge
-* 12/07/2022 - Daily minutes total = 120 (3 * 25 minute sessions and 1 * 45 minute session = Day's total)
+* 12/07/2022 - 120 minutes day's total (3 * 25 minute sessions and 1 * 45 minute session = Day's total)
