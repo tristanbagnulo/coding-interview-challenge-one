@@ -12,3 +12,4 @@ For example, 6 of the integers you receive may be [4, 2, 2, 3, 4, 4].
 
 ## Time taken to do challenge
 * 12/07/2022 - 120 minutes day's total (3 * 25 minute sessions and 1 * 45 minute session = Day's total)
+* 14/07/2022 - 60 minutes day's total
